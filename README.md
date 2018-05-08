@@ -1,2 +1,2 @@
-# katacode-scenarios-glang
+# katacode-scenarios-golang
 Run golang Scenarios 
